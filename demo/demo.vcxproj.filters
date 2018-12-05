@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="demo.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="ntapi">
+      <UniqueIdentifier>{10b77215-1701-47b0-bc6c-8c3438351cec}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ntapi\ntapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntdbg.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntexapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntgdi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntioapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntkeapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntldr.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntlpcapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntmisc.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntmmapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntnls.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntobapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntpebteb.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntpfapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntpnpapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntpoapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntpsapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntregapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntrtl.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntsam.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntseapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\nttmapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\nttp.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntwow64.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntxcapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\ntzwapi.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\subprocesstag.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\winsta.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\nt.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\nt_ntdef.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+    <ClInclude Include="ntapi\nt_windows.h">
+      <Filter>ntapi</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
